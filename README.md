@@ -344,6 +344,5 @@ Name           | Address
 
 
 ## Structure
-
 Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
 `accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
