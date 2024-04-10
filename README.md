@@ -338,7 +338,7 @@ Name           | Address
 [sTONks](https://tonviewer.com/0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45) | EQBng_Ux8DLKeaLZ4kN4eec-U-SJ1fMtYvqQANtL0oxKRQh_
 [toncoin](https://tonviewer.com/0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245af083e138fdd705b) | EQCFke6QkMDALKHxA8tjcTHY81iHCroUUkWvCD4Tj91wW0Vs
 [ЖЮ](https://tonviewer.com/0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971) | EQD_KpO2-iFeHPT4dF0ur9E0iAFts2fwhpR2KjwAmYKpccvH
-
+[Roach Coin Sniper](https://tonviewer.com/0:5c0c806c1b7f1726c3f1778fa47426e1bcdc1be396a1b2097c3a7b142b69261f) | EQBcDIBsG38XJsPxd4-kdCbhvNwb45ahsgl8OnsUK2kmH2Rt
 
 ## Structure
 
