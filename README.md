@@ -342,6 +342,7 @@ Name           | Address
 [toncoin](https://tonviewer.com/0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245af083e138fdd705b) | EQCFke6QkMDALKHxA8tjcTHY81iHCroUUkWvCD4Tj91wW0Vs
 [ЖЮ](https://tonviewer.com/0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971) | EQD_KpO2-iFeHPT4dF0ur9E0iAFts2fwhpR2KjwAmYKpccvH
 
+
 ## Structure
 
 Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
